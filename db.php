@@ -3,5 +3,5 @@
 	$hostname = 'localhost';
 	$username = 'root';
 	$password => '';
-    $database => 'cidb';
+	$database => 'cidb';
 ?>
