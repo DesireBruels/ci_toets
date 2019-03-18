@@ -1,7 +1,9 @@
 <?PHP
 //Dit is mijn connectie bestand
 	$hostname = 'localhost';
-	$username = 'root';
+	$user = 'root';
 	$password => '';
 	$database => 'cidb';
+
+	$conn = mysqli_connect($hostname, $user, $password, $database);
 ?>
